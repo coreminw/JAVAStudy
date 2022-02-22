@@ -1,0 +1,10 @@
+
+D
+java:S3740"/Provide the parametrized type for this generic.(ÎçÅl
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×›«Žøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Š…¡ºúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ¢Ûßüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(®ùÇý
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ•£†þÿÿÿÿ
+E
+java:S1905"*Remove this unnecessary cast to "Integer".(ƒ•£†þÿÿÿÿ

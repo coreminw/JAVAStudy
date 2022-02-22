@@ -1,0 +1,8 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Áàï’þÿÿÿÿ
+s	java:S116"YRename this field "INCREMENT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÑ±Ôøÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ûÑ±Ôøÿÿÿÿ
+t
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÞÛºþÿÿÿÿ
