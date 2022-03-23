@@ -1,2 +1,2 @@
 # JAVAStudy
-Java Study.
+Java Study
